@@ -119,7 +119,9 @@ h4{
     display: none;
 }
 
-
+.menu{
+  margin-top:10px;
+}
 
 .location{
   display:none;
@@ -194,6 +196,10 @@ h4{
 .dropdown:hover .dropdown-content {
   display: block;
 }
+  
+
+.menu {
+    margin-top: 20px;
 }
 
   @media (max-width: 400px){
