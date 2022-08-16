@@ -100,13 +100,13 @@ h2{
   color:#85c828;
 }
 h3{
-  font-size: 20px;
+  font-size: 18px;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
 .team{
   margin-left:700px;
-  margin-top:-655px;
+margin-top: -575px;
   font-family: 'Source Sans Pro', sans-serif;
   margin-right:100px;
 }
@@ -205,6 +205,10 @@ h3{
     
     text-align:center;
   }
+  h3 {
+    font-size: 18px;
+  }
+}
   
    @media (max-width: 400px) {  
 .child1{
