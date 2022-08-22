@@ -285,17 +285,18 @@ margin-top: -575px;
   
 }
      h3 {
+       margin-left:10px;
     font-size: 18px;
     font-family: 'Source Sans Pro', sans-serif;
 }
      .owner{
-   margin-left:10px;
+   
     text-align:center;
-       margin-right:10px;
+       
   }
 
   .team{
-     margin-left:10px;
+     margin-left:0px;
      margin-top:50px;
      margin-right:10px;
     
