@@ -288,4 +288,16 @@ margin-top: -575px;
     font-size: 18px;
     font-family: 'Source Sans Pro', sans-serif;
 }
+     .owner{
+   
+    text-align:center;
+  }
+
+  .team{
+     margin-left:0px;
+     margin-top:50px;
+     margin-right:10px;
+    
+    text-align:center;
+  }
 }
