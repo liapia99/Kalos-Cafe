@@ -189,7 +189,7 @@ h4{
     margin-right:20px;
   }
   .dropbtn {
- width:100%;
+ width:100px;
   position: sticky;
   padding: 20px;
      font-family: 'Source Sans Pro', sans-serif;
@@ -228,7 +228,7 @@ h4{
   h5{
     color:white;
   font-size:44px;
-  margin-top:0px;
+  margin-top:10px;
   text-align: center;
   margin-left:0px;
   margin-right:0px;
